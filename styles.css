@@ -1,0 +1,67 @@
+.logo{
+        width:4em;
+        height:6em;    
+        height: auto;
+        position: absolute;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    margin-left: 20px;
+}
+
+header{
+    margin-top: 15px;
+    margin-left: 15px;
+    position: sticky;
+    top: 0;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+h2{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.container{
+    margin: auto;
+    width: 50%;
+    margin-top: 200px;
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+}
+
+
+
+.container-traject{
+    margin: auto;
+    width: 50%;
+    margin-top: 150px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
