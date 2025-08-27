@@ -65,3 +65,7 @@ span{
     justify-content: center;
 }
 
+body{
+    background-image: url("images/bgBlur.jpg");
+    background-size: cover;
+}
