@@ -147,6 +147,15 @@ span {
     border-radius: 6px;
 }
 
+.vakantieImg{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 6px;
+}
+
 @media (max-width: 768px) {
     header { flex-direction: column; padding: 10px; }
     .logo { margin-bottom: 10px; }
